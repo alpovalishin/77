@@ -1,7 +1,7 @@
 # 77
 /* Styles for a basic button */
 .button {
-  padding: 10px 20px;
+  padding: 5 px 15 px;
   background-color: #4CAF60;
   color: white;
   border: none;
