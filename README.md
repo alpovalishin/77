@@ -7,7 +7,7 @@
   border: none;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: inline_block;
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
