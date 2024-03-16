@@ -3,7 +3,7 @@
 .button {
   padding: 10 px 26 px;
   background-color: #4CAF60;
-  color: white;
+  Color: white;
   border: none;
   text-align: center;
   text-decoration: none;
