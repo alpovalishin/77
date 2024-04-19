@@ -8,7 +8,7 @@
   text-align: center;
   text-decoration: none;
   display: inline_block;
-  font-size: 17px;
+  font-size: 18px;
   margin: 4px 2px;
   cursor: pointer;
 }
