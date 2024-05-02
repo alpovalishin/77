@@ -9,6 +9,6 @@
   text-decoration: none;
   display: inline_block;
   font-size: 18px;
-  margin: 4px 2px;
+  margin: 6px 2px;
   cursor: pointer;
 }
