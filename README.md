@@ -11,5 +11,5 @@
   font-size: 18px;
   margin: 6px 2px;
   cursor: pointer;
-  static void main(08)
+  static void main(08.05)
 }
