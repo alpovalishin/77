@@ -12,4 +12,4 @@
   margin: 6px 2px;
   cursor: pointer;
   static void main(02d24)
-}08gf
+}1
