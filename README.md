@@ -9,7 +9,7 @@
   text-decoration: none;
   display: inline_block;
   font-size: 1832px;
-  margin: 6px 2px;
+  margin: 6px 3px;
   cursor: pointer;
   static void main(02d24)
 }1
